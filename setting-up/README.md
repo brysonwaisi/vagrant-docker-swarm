@@ -19,4 +19,6 @@ vagrant ssh control
 sudo cp /vagrant/hosts /etc/hosts
 ```
 
+### Vagrant cheatsheet
+
 https://gist.github.com/devopsjourney1/7a5f21fddef564eb8c68dd7901d0f6be
